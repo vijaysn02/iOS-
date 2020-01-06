@@ -1,0 +1,6 @@
+framework module Pods_MQTT_Client_Swift {
+  umbrella header "Pods-MQTT-Client-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
